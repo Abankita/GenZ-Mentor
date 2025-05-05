@@ -16,4 +16,7 @@ GenAI Mentor aims to support students and professionals in reflecting on their c
 - **Kaggle Notebooks**  
 - **LangChain / LangGraph (optional for agentic flow)**  
 - **FAISS / Vector Store (for embeddings search)**  
-- **Pandas / Numpy** (data handling)  
+- **Pandas / Numpy** (data handling)
+
+## Dataset used: [Understanding Career Aspirations of GenZ - Kaggle Dataset](https://www.kaggle.com/datasets/kulturehire/understanding-career-aspirations-of-genz)
+
